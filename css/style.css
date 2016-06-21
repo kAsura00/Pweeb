@@ -1,10 +1,27 @@
-.jumbotron{
-	background-image: url("../images/digiLAY.gif");
-	background-repeat: no-repeat;
-	background-position: center;
+* {
 
 }
+
+html {
+
+}
+
 
 body{
-	background-image: url("../images/stars.jpg");
+	background-image: url("../images/HD-Wallpapers-1280x1024-1.jpg");
 }
+
+.jumbotron{
+	background: transparent;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
+}
+
+
+.jumbotron .btn {
+	background: rgba(0,0,0,0.3);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
